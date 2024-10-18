@@ -25,6 +25,8 @@ This project aims to create an easy-to-use desktop application for analyzing and
     - Basic Neural Networks
 
 5. GUI
+    - Desktop application
+    - User-friendly interface
 
 
 ## Analysis Datasets from 
