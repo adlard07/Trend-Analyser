@@ -1,0 +1,10 @@
+google
+webbrowser
+threading
+flask
+PyQt5
+mlxtend
+
+pandas
+numpy
+math
