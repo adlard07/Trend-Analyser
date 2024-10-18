@@ -5,9 +5,11 @@ This project aims to create an easy-to-use desktop application for analyzing and
 `
 https://en.tutiempo.net/climate
 `
+
 `
 https://developer.yahoo.com/api/
 `
+
 `
 https://www.kaggle.com/datasets/mafzal19/electric-vehicle-sales-by-state-in-india
 `
